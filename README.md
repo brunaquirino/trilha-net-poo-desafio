@@ -1,4 +1,7 @@
 # DIO - Trilha .NET - Programação orientada a objetos
+
+**Desafio completado! Todas as funcionalidades e validações descritas foram implementadas, e o sistema está totalmente funcional. O desafio teve como foco principal a aplicação de conceitos de Programação Orientada a Objetos em C#, como a criação de classes abstratas, herança e polimorfismo, proporcionando uma sólida prática em abstração e reutilização de código.**
+
 www.dio.me
 
 ## Desafio de projeto
